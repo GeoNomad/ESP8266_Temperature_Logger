@@ -1,5 +1,5 @@
 # ESP8266_Temperature_Logger
-DS18b20 Temperatures Sensor and Wifi upload to a host to log temperature
+DS18b20 Temperature Sensor and Wifi upload to a host to log temperature
 
 A simple example of reading the temperature using the Arduino libraries and logging it to a web site.
 
